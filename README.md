@@ -2,7 +2,7 @@
 
 ## MODELS:
 
-<detail><summary>All-In-One-Pixel-Model</summary>
+<details><summary>All-In-One-Pixel-Model</summary>
 
 [All-In-One-Pixel-Model](https://huggingface.co/PublicPrompts/All-In-One-Pixel-Model)
 
@@ -13,9 +13,9 @@
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1668023243346-63507e5e18a4f616c9dfba19.png" width="50%" height="50%">
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1668023243698-63507e5e18a4f616c9dfba19.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Analog-Diffusion</summary>
+<details><summary>Analog-Diffusion</summary>
 
 [Analog-Diffusion](https://huggingface.co/wavymulder/Analog-Diffusion)
 
@@ -23,21 +23,21 @@
 
 ![](https://huggingface.co/wavymulder/Analog-Diffusion/resolve/main/images/page1.jpg)
 
-</detail>
+</details>
 
-<detail><summary>Anything V3</summary>
+<details><summary>Anything V3</summary>
 
 [Anything V3](https://huggingface.co/Linaqruf/anything-v3.0)
 
-*Welcome to Anything V3 - a latent diffusion model for weebs. This model is intended to produce high-quality, highly detailed anime style with just a few prompts. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images.*
+*Welcome to Anything V3 - a latent diffusion model for weebs. This model is intended to produce high-quality, highly detailsed anime style with just a few prompts. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images.*
 
 <img src="https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png" width="50%" height="50%">
 <img src="https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1boy.png" width="50%" height="50%">
 <img src="https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/scenery.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Arcane-Diffusion</summary>
+<details><summary>Arcane-Diffusion</summary>
 
 [Arcane-Diffusion](https://huggingface.co/nitrosocke/Arcane-Diffusion)
 
@@ -46,9 +46,9 @@
 <img src="https://huggingface.co/nitrosocke/Arcane-Diffusion/resolve/main/arcane-v3-samples-01.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/nitrosocke/Arcane-Diffusion/resolve/main/arcane-v3-samples-02.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Comic-Diffusion</summary>
+<details><summary>Comic-Diffusion</summary>
 
 [Comic-Diffusion](https://huggingface.co/ogkalu/Comic-Diffusion)
 
@@ -59,9 +59,9 @@
 <img src="https://huggingface.co/ogkalu/Comic-Diffusion/resolve/main/V2gen3.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/ogkalu/Comic-Diffusion/resolve/main/V2gen4.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>dreamlike-diffusion-1.0</summary>
+<details><summary>dreamlike-diffusion-1.0</summary>
 
 [dreamlike-diffusion-1.0](https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0)
 
@@ -71,9 +71,9 @@
 <img src="https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0/resolve/main/1.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0/resolve/main/2.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Future-Diffusion</summary>
+<details><summary>Future-Diffusion</summary>
 
 [Future-Diffusion](https://huggingface.co/nitrosocke/Future-Diffusion)
 
@@ -83,9 +83,9 @@
 <img src="https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples02s.png" width="50%" height="50%">
 <img src="https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples03s.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Ghibli-Diffusion</summary>
+<details><summary>Ghibli-Diffusion</summary>
 
 [Ghibli-Diffusion](https://huggingface.co/nitrosocke/Ghibli-Diffusion)
 
@@ -96,18 +96,18 @@
 <img src="https://huggingface.co/nitrosocke/Ghibli-Diffusion/resolve/main/images/ghibli-diffusion-samples-03s.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/nitrosocke/Ghibli-Diffusion/resolve/main/images/ghibli-diffusion-samples-04s.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Inkpunk-Diffusion</summary>
+<details><summary>Inkpunk-Diffusion</summary>
 
 [Inkpunk-Diffusion](https://huggingface.co/Envvi/Inkpunk-Diffusion)
 
 <img src="https://huggingface.co/Envvi/Inkpunk-Diffusion/resolve/main/inkpunk-v2-samples-1.png" width="50%" height="50%">
 <img src="https://huggingface.co/Envvi/Inkpunk-Diffusion/resolve/main/inkpunk-v2-samples-2.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>MidJourney-PaperCut</summary>
+<details><summary>MidJourney-PaperCut</summary>
 
 [MidJourney-PaperCut](https://huggingface.co/ShadoWxShinigamI/MidJourney-PaperCut)
 
@@ -116,9 +116,9 @@
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1668139825214-633a520aecbd8b19357b4806.png" width="50%" height="50%">
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1668139380714-633a520aecbd8b19357b4806.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>modern disney</summary>
+<details><summary>modern disney</summary>
 
 [mo-di-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)
 
@@ -127,18 +127,18 @@
 <img src="https://huggingface.co/nitrosocke/mo-di-diffusion/resolve/main/modi-samples-02s.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/nitrosocke/mo-di-diffusion/resolve/main/modi-samples-03s.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>redshift-diffusion</summary>
+<details><summary>redshift-diffusion</summary>
 
 [redshift-diffusion](https://huggingface.co/nitrosocke/redshift-diffusion)
 
 <img src="https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg" width="50%" height="50%">
 <img src="https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-02s.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>SamDoesArt-V3</summary>
+<details><summary>SamDoesArt-V3</summary>
 
 [SamDoesArt-V3](https://huggingface.co/Sandro-Halpo/SamDoesArt-V3)
 
@@ -147,17 +147,17 @@
 <img src="https://preview.redd.it/ydkm2f06zc3a1.png?width=1920&format=png&auto=webp&s=d5fa22c4cda9572e6a8cc4059b12f869b6de86ad" width="50%" height="50%">
 <img src="https://preview.redd.it/9tf07x07zc3a1.png?width=1920&format=png&auto=webp&s=3911ce4c016c7758d354f62423fbf4f9f5e7c6dc" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>synthwavePunk</summary>
+<details><summary>synthwavePunk</summary>
 
 [synthwavePunk](https://huggingface.co/zipp425/synthwavePunk)
 
 <img src="https://huggingface.co/zipp425/synthwavePunk/resolve/main/example.jpg" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>waifu-diffusion-v1-3</summary>
+<details><summary>waifu-diffusion-v1-3</summary>
 
 [waifu-diffusion-v1-3](https://huggingface.co/hakurei/waifu-diffusion-v1-3)
 
@@ -166,9 +166,9 @@
 <img src="https://user-images.githubusercontent.com/26317155/194690362-ae3914aa-d192-47d4-9e43-9d87c026b8ef.png" width="50%" height="50%">
 <img src="https://user-images.githubusercontent.com/26317155/194689831-d16ce6e7-84f1-4b15-af51-327683637552.png" width="50%" height="50%">
 
-</detail>
+</details>
 
-<detail><summary>Openjourney v1 & v2</summary>
+<details><summary>Openjourney v1 & v2</summary>
 
 [OpenJourney v1 & v2](https://huggingface.co/prompthero/openjourney)
 
@@ -177,4 +177,4 @@
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1667904587646-63265d019f9d19bfd4f45031.png" width="50%" height="50%">
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1667904587642-63265d019f9d19bfd4f45031.png" width="50%" height="50%">
 
-</detail>
+</details>
