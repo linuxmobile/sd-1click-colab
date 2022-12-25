@@ -2,7 +2,8 @@
 
 ## MODELS:
 
-<detail><summary>All-In-One-Pixel-Model</summary>
+<detail>
+<summary>All-In-One-Pixel-Model</summary>
 
 [All-In-One-Pixel-Model](https://huggingface.co/PublicPrompts/All-In-One-Pixel-Model)
 
@@ -15,7 +16,8 @@
 
 </detail>
 
-<detail><summary>Analog-Diffusion</summary>
+<detail>
+<summary>Analog-Diffusion</summary>
 
 [Analog-Diffusion](https://huggingface.co/wavymulder/Analog-Diffusion)
 
@@ -25,7 +27,8 @@
 
 </detail>
 
-<detail><summary>Anything V3</summary>
+<detail>
+<summary>Anything V3</summary>
 
 [Anything V3](https://huggingface.co/Linaqruf/anything-v3.0)
 
@@ -37,8 +40,8 @@
 
 </detail>
 
-<detail><summary>
-Arcane-Diffusion</summary>
+<detail>
+<summary>Arcane-Diffusion</summary>
 
 [Arcane-Diffusion](https://huggingface.co/nitrosocke/Arcane-Diffusion)
 
@@ -49,7 +52,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>Comic-Diffusion</summary>
+<detail>
+<summary>Comic-Diffusion</summary>
 
 [Comic-Diffusion](https://huggingface.co/ogkalu/Comic-Diffusion)
 
@@ -62,7 +66,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>dreamlike-diffusion-1.0</summary>
+<detail>
+<summary>dreamlike-diffusion-1.0</summary>
 
 [dreamlike-diffusion-1.0](https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0)
 
@@ -74,7 +79,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>Future-Diffusion</summary>
+<detail>
+<summary>Future-Diffusion</summary>
 
 [Future-Diffusion](https://huggingface.co/nitrosocke/Future-Diffusion)
 
@@ -86,7 +92,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>Ghibli-Diffusion</summary>
+<detail>
+<summary>Ghibli-Diffusion</summary>
 
 [Ghibli-Diffusion](https://huggingface.co/nitrosocke/Ghibli-Diffusion)
 
@@ -99,7 +106,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>Inkpunk-Diffusion</summary>
+<detail>
+<summary>Inkpunk-Diffusion</summary>
 
 [Inkpunk-Diffusion](https://huggingface.co/Envvi/Inkpunk-Diffusion)
 
@@ -110,7 +118,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>MidJourney-PaperCut</summary>
+<detail>
+<summary>MidJourney-PaperCut</summary>
 
 [MidJourney-PaperCut](https://huggingface.co/ShadoWxShinigamI/MidJourney-PaperCut)
 
@@ -121,7 +130,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>modern disney</summary>
+<detail>
+<summary>modern disney</summary>
 
 [mo-di-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)
 
@@ -132,7 +142,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>redshift-diffusion</summary>
+<detail>
+<summary>redshift-diffusion</summary>
 
 [redshift-diffusion](https://huggingface.co/nitrosocke/redshift-diffusion)
 
@@ -141,7 +152,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>SamDoesArt-V3</summary>
+<detail>
+<summary>SamDoesArt-V3</summary>
 
 [SamDoesArt-V3](https://huggingface.co/Sandro-Halpo/SamDoesArt-V3)
 
@@ -152,7 +164,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>synthwavePunk</summary>
+<detail>
+<summary>synthwavePunk</summary>
 
 [synthwavePunk](https://huggingface.co/zipp425/synthwavePunk)
 
@@ -160,7 +173,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>waifu-diffusion-v1-3</summary>
+<detail>
+<summary>waifu-diffusion-v1-3</summary>
 
 [waifu-diffusion-v1-3](https://huggingface.co/hakurei/waifu-diffusion-v1-3)
 
@@ -171,7 +185,8 @@ Arcane-Diffusion</summary>
 
 </detail>
 
-<detail><summary>Openjourney v1 & v2</summary>
+<detail>
+<summary>Openjourney v1 & v2</summary>
 
 [OpenJourney v1 & v2](https://huggingface.co/prompthero/openjourney)
 
